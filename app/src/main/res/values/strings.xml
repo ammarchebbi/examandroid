@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="listTypeProjection">
+        <item>Premiére projection</item>
+        <item>Deuxiéme projection</item>
+    </string-array>
+</resources>
